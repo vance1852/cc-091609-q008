@@ -1,0 +1,1 @@
+{"session":"dispense-501","snapshot":"rx-88-v2","lines":[{"id":"line-a","name":"制南星","bin":"bin-141","targetGrams":"9.0"},{"id":"line-b","name":"胆南星","bin":"bin-142","targetGrams":"6.0"}],"events":[{"kind":"wrong-bin","line":"line-a","scanned":"bin-142"},{"kind":"calibration-expired","scale":"scale-2"},{"kind":"switch-scale","from":"scale-2","to":"scale-5"}]}
